@@ -1,0 +1,1064 @@
+[
+    {
+        "fid": "1",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de fourrure",
+        "geometryProperty": [
+            52.088036487146155,
+            23.695729184882403
+        ]
+    },
+    {
+        "fid": "35",
+        "statut": "Travail du bois",
+        "Properties": "Scierie n°3",
+        "geometryProperty": [
+            52.08300354303579,
+            23.68510674499076
+        ]
+    },
+    {
+        "fid": "36",
+        "statut": "Travail du bois",
+        "Properties": "Scierie n°2",
+        "geometryProperty": [
+            52.085302453058844,
+            23.678138130580606
+        ]
+    },
+    {
+        "fid": "51",
+        "statut": "Construction/matériaux",
+        "Properties": "Cimenterie",
+        "geometryProperty": [
+            52.09292101867586,
+            23.669400287014522
+        ]
+    },
+    {
+        "fid": "72",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.09455340883497,
+            23.692873597145113
+        ]
+    },
+    {
+        "fid": "84",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.0902547236066,
+            23.70103399826325
+        ]
+    },
+    {
+        "fid": "87",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Production de graisse d’os",
+        "geometryProperty": [
+            52.088585086605036,
+            23.69140271300281
+        ]
+    },
+    {
+        "fid": "88",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.090130162590675,
+            23.69137371760359
+        ]
+    },
+    {
+        "fid": "90",
+        "statut": "Imprimerie/reliure",
+        "Properties": "Imprimerie",
+        "geometryProperty": [
+            52.09463837608676,
+            23.683185102401495
+        ]
+    },
+    {
+        "fid": "91",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine de transformation des fruits",
+        "geometryProperty": [
+            52.08902523990098,
+            23.686442262118646
+        ]
+    },
+    {
+        "fid": "92",
+        "statut": "Production biens manufacturés",
+        "Properties": "Usine de tricotage",
+        "geometryProperty": [
+            52.09453847907351,
+            23.68660551392051
+        ]
+    },
+    {
+        "fid": "95",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Production d’huile",
+        "geometryProperty": [
+            52.08545369125109,
+            23.697054252629435
+        ]
+    },
+    {
+        "fid": "96",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Distillerie – Production de vodka",
+        "geometryProperty": [
+            52.09917638199451,
+            23.685900499330845
+        ]
+    },
+    {
+        "fid": "97",
+        "statut": "Construction/matériaux",
+        "Properties": "Atelier de peinture",
+        "geometryProperty": [
+            52.09325197398306,
+            23.692354619748766
+        ]
+    },
+    {
+        "fid": "98",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.08805066440398,
+            23.695650721582137
+        ]
+    },
+    {
+        "fid": "99",
+        "statut": "Construction/matériaux",
+        "Properties": "Forge",
+        "geometryProperty": [
+            52.08800288938536,
+            23.695844462514074
+        ]
+    },
+    {
+        "fid": "100",
+        "statut": "Production biens manufacturés",
+        "Properties": "Atelier de sellerie",
+        "geometryProperty": [
+            52.08949012957606,
+            23.694947099721798
+        ]
+    },
+    {
+        "fid": "101",
+        "statut": "Construction/matériaux",
+        "Properties": "Bureau d’études",
+        "geometryProperty": [
+            52.08790428464762,
+            23.695283161727733
+        ]
+    },
+    {
+        "fid": "102",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.08547536159234,
+            23.697042834226327
+        ]
+    },
+    {
+        "fid": "103",
+        "statut": "Production biens manufacturés",
+        "Properties": "Fabrique de savon",
+        "geometryProperty": [
+            52.083034637712,
+            23.698292011869853
+        ]
+    },
+    {
+        "fid": "108",
+        "statut": "Production biens manufacturés",
+        "Properties": "Production peignes et brosses",
+        "geometryProperty": [
+            52.092699702671766,
+            23.69414170910794
+        ]
+    },
+    {
+        "fid": "110",
+        "statut": "Travail du bois",
+        "Properties": "Menuiserie N°2",
+        "geometryProperty": [
+            52.088227635363445,
+            23.687341820206093
+        ]
+    },
+    {
+        "fid": "111",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine d'eau gazeuse",
+        "geometryProperty": [
+            52.08832342889976,
+            23.69415120767465
+        ]
+    },
+    {
+        "fid": "112",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine d'eau gazeuse",
+        "geometryProperty": [
+            52.08828941477352,
+            23.692720188063205
+        ]
+    },
+    {
+        "fid": "113",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine d'eau gazeuse",
+        "geometryProperty": [
+            52.088577485943915,
+            23.694237263826494
+        ]
+    },
+    {
+        "fid": "115",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine de jus de fruits",
+        "geometryProperty": [
+            52.09019839062437,
+            23.692092429661393
+        ]
+    },
+    {
+        "fid": "116",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.096158876804665,
+            23.683294741078825
+        ]
+    },
+    {
+        "fid": "119",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction",
+        "geometryProperty": [
+            52.086309318664085,
+            23.686105796317285
+        ]
+    },
+    {
+        "fid": "122",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09092962685201,
+            23.690885777311998
+        ]
+    },
+    {
+        "fid": "128",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Produits laitiers",
+        "geometryProperty": [
+            52.0946836300124,
+            23.692113474474613
+        ]
+    },
+    {
+        "fid": "139",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09746360463349,
+            23.685633310295255
+        ]
+    },
+    {
+        "fid": "140",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine de jus de fruits",
+        "geometryProperty": [
+            52.095736796265804,
+            23.687222721463176
+        ]
+    },
+    {
+        "fid": "142",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.09080336474516,
+            23.719936670483275
+        ]
+    },
+    {
+        "fid": "143",
+        "statut": "Construction/matériaux",
+        "Properties": "Forge",
+        "geometryProperty": [
+            52.09123732031192,
+            23.719138843467192
+        ]
+    },
+    {
+        "fid": "144",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.08618093143332,
+            23.70304908059529
+        ]
+    },
+    {
+        "fid": "145",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Abattoir",
+        "geometryProperty": [
+            52.08820989456477,
+            23.71402197917882
+        ]
+    },
+    {
+        "fid": "146",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.08420195452463,
+            23.698862048518023
+        ]
+    },
+    {
+        "fid": "147",
+        "statut": "Construction/matériaux",
+        "Properties": "Usine de Carrelage, céramique",
+        "geometryProperty": [
+            52.08349632757703,
+            23.689540270226633
+        ]
+    },
+    {
+        "fid": "150",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction",
+        "geometryProperty": [
+            52.08705352169279,
+            23.68283542502791
+        ]
+    },
+    {
+        "fid": "151",
+        "statut": "Travail du bois",
+        "Properties": "Scierie",
+        "geometryProperty": [
+            52.08682991841308,
+            23.679938649951126
+        ]
+    },
+    {
+        "fid": "153",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.0991934163483,
+            23.69131106186987
+        ]
+    },
+    {
+        "fid": "154",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.100647267850135,
+            23.677108928446756
+        ]
+    },
+    {
+        "fid": "156",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine de charcuterie (saucissons)",
+        "geometryProperty": [
+            52.09958320899104,
+            23.688372160424823
+        ]
+    },
+    {
+        "fid": "157",
+        "statut": "Imprimerie/reliure",
+        "Properties": "Imprimerie municipale",
+        "geometryProperty": [
+            52.09498904665227,
+            23.688690939485145
+        ]
+    },
+    {
+        "fid": "158",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Laiterie",
+        "geometryProperty": [
+            52.08566350029328,
+            23.687241532714367
+        ]
+    },
+    {
+        "fid": "159",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.1006570359951,
+            23.692227275250126
+        ]
+    },
+    {
+        "fid": "161",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Usine de vinaigre",
+        "geometryProperty": [
+            52.086690737410464,
+            23.694992000464556
+        ]
+    },
+    {
+        "fid": "162",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.098142606530914,
+            23.690569042476614
+        ]
+    },
+    {
+        "fid": "163",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09752032429373,
+            23.691177100792043
+        ]
+    },
+    {
+        "fid": "164",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de fourrure",
+        "geometryProperty": [
+            52.09506447321205,
+            23.693139623023857
+        ]
+    },
+    {
+        "fid": "165",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.09686737218763,
+            23.691753792666383
+        ]
+    },
+    {
+        "fid": "166",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09570002611373,
+            23.69302331953558
+        ]
+    },
+    {
+        "fid": "167",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.0944579194739,
+            23.694224250050862
+        ]
+    },
+    {
+        "fid": "168",
+        "statut": "Commerçant/artisan",
+        "Properties": "Horlogerie",
+        "geometryProperty": [
+            52.08347234496929,
+            23.698081889321216
+        ]
+    },
+    {
+        "fid": "169",
+        "statut": "Commerçant/artisan",
+        "Properties": "Chapelier",
+        "geometryProperty": [
+            52.09545306736755,
+            23.689007201429074
+        ]
+    },
+    {
+        "fid": "170",
+        "statut": "Commerçant/artisan",
+        "Properties": "Magasin de journaux",
+        "geometryProperty": [
+            52.095410451700495,
+            23.68891902318356
+        ]
+    },
+    {
+        "fid": "171",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction",
+        "geometryProperty": [
+            52.09550228858902,
+            23.69068453684289
+        ]
+    },
+    {
+        "fid": "172",
+        "statut": "Commerçant/artisan",
+        "Properties": "Photographe",
+        "geometryProperty": [
+            52.09444317390895,
+            23.691259159381715
+        ]
+    },
+    {
+        "fid": "173",
+        "statut": "Commerçant/artisan",
+        "Properties": "Café Bruderschaft",
+        "geometryProperty": [
+            52.09437916020375,
+            23.691324281967812
+        ]
+    },
+    {
+        "fid": "174",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.09102310213187,
+            23.693689835915514
+        ]
+    },
+    {
+        "fid": "175",
+        "statut": "Commerçant/artisan",
+        "Properties": "Tailleur",
+        "geometryProperty": [
+            52.091001349272474,
+            23.693657512575957
+        ]
+    },
+    {
+        "fid": "176",
+        "statut": "Commerçant/artisan",
+        "Properties": "Tailleur",
+        "geometryProperty": [
+            52.09015009285548,
+            23.69412716414306
+        ]
+    },
+    {
+        "fid": "177",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de couture",
+        "geometryProperty": [
+            52.08938773752832,
+            23.6944666554816
+        ]
+    },
+    {
+        "fid": "178",
+        "statut": "Commerçant/artisan",
+        "Properties": "Pharmacie",
+        "geometryProperty": [
+            52.08830130977329,
+            23.69506459629547
+        ]
+    },
+    {
+        "fid": "179",
+        "statut": "Commerçant/artisan",
+        "Properties": "Ouverture Atelier de couture",
+        "geometryProperty": [
+            52.087974765849815,
+            23.695692922374455
+        ]
+    },
+    {
+        "fid": "180",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.088097700062775,
+            23.695171029245557
+        ]
+    },
+    {
+        "fid": "181",
+        "statut": "Commerçant/artisan",
+        "Properties": "Pharmacie",
+        "geometryProperty": [
+            52.08799306845988,
+            23.695223430924617
+        ]
+    },
+    {
+        "fid": "182",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.08768765255061,
+            23.695879953095666
+        ]
+    },
+    {
+        "fid": "183",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de couture",
+        "geometryProperty": [
+            52.09072853059829,
+            23.686988951646875
+        ]
+    },
+    {
+        "fid": "184",
+        "statut": "Construction/matériaux",
+        "Properties": "Société d'exploitation Chantier",
+        "geometryProperty": [
+            52.08490999206398,
+            23.687152102025678
+        ]
+    },
+    {
+        "fid": "185",
+        "statut": "Commerçant/artisan",
+        "Properties": "Tailleur",
+        "geometryProperty": [
+            52.086690737410464,
+            23.694992000464556
+        ]
+    },
+    {
+        "fid": "186",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction",
+        "geometryProperty": [
+            52.0872464775087,
+            23.694098967354225
+        ]
+    },
+    {
+        "fid": "187",
+        "statut": "Travail du bois",
+        "Properties": "Menuiserie",
+        "geometryProperty": [
+            52.09022603122446,
+            23.68994924008519
+        ]
+    },
+    {
+        "fid": "188",
+        "statut": "Commerçant/artisan",
+        "Properties": "Photographe",
+        "geometryProperty": [
+            52.09046258621109,
+            23.69331689924747
+        ]
+    },
+    {
+        "fid": "189",
+        "statut": "Construction/matériaux",
+        "Properties": "Atelier de pollisage de verre",
+        "geometryProperty": [
+            52.090283400311996,
+            23.69489892297147
+        ]
+    },
+    {
+        "fid": "190",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnier",
+        "geometryProperty": [
+            52.090391210935316,
+            23.695614944811993
+        ]
+    },
+    {
+        "fid": "191",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction",
+        "geometryProperty": [
+            52.095418026704685,
+            23.683951996176777
+        ]
+    },
+    {
+        "fid": "193",
+        "statut": "Commerçant/artisan",
+        "Properties": "Tailleur",
+        "geometryProperty": [
+            52.082964696389276,
+            23.691776752198138
+        ]
+    },
+    {
+        "fid": "194",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cuisine mobile",
+        "geometryProperty": [
+            52.091184074736134,
+            23.681841284370577
+        ]
+    },
+    {
+        "fid": "196",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction de bâtiment technique",
+        "geometryProperty": [
+            52.095304149606385,
+            23.693813546474395
+        ]
+    },
+    {
+        "fid": "197",
+        "statut": "Commerçant/artisan",
+        "Properties": "Photographe",
+        "geometryProperty": [
+            52.096038005678345,
+            23.696517954979605
+        ]
+    },
+    {
+        "fid": "198",
+        "statut": "Commerçant/artisan",
+        "Properties": "Hôtel",
+        "geometryProperty": [
+            52.09810389973492,
+            23.68453431267674
+        ]
+    },
+    {
+        "fid": "199",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.09571361348964,
+            23.687897910147857
+        ]
+    },
+    {
+        "fid": "200",
+        "statut": "Construction/matériaux",
+        "Properties": "Atelier de peinture",
+        "geometryProperty": [
+            52.095294694281364,
+            23.688570124734472
+        ]
+    },
+    {
+        "fid": "201",
+        "statut": "Imprimerie/reliure",
+        "Properties": "Atelier de reliure",
+        "geometryProperty": [
+            52.09595284478402,
+            23.690257131156592
+        ]
+    },
+    {
+        "fid": "202",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de tailleur",
+        "geometryProperty": [
+            52.09599569179086,
+            23.69043378587298
+        ]
+    },
+    {
+        "fid": "203",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.08952537041793,
+            23.692492079549236
+        ]
+    },
+    {
+        "fid": "204",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.086681319818204,
+            23.693342487173396
+        ]
+    },
+    {
+        "fid": "206",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de tailleur",
+        "geometryProperty": [
+            52.098115613504014,
+            23.696987510103366
+        ]
+    },
+    {
+        "fid": "207",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnier",
+        "geometryProperty": [
+            52.10003647065363,
+            23.700950564217784
+        ]
+    },
+    {
+        "fid": "208",
+        "statut": "Commerçant/artisan",
+        "Properties": "Pharmacie(du camp ? / stock?)",
+        "geometryProperty": [
+            52.0961986641662,
+            23.69175426725336
+        ]
+    },
+    {
+        "fid": "209",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.0946512279951,
+            23.696124560818788
+        ]
+    },
+    {
+        "fid": "210",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.0943018963938,
+            23.696480488104225
+        ]
+    },
+    {
+        "fid": "211",
+        "statut": "Commerçant/artisan",
+        "Properties": "Sellerie/ bourrelier",
+        "geometryProperty": [
+            52.08562326240232,
+            23.700636132326974
+        ]
+    },
+    {
+        "fid": "212",
+        "statut": "Commerçant/artisan",
+        "Properties": "Photographe",
+        "geometryProperty": [
+            52.08921642087396,
+            23.69138185529107
+        ]
+    },
+    {
+        "fid": "213",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction de Samusenko et cie",
+        "geometryProperty": [
+            52.08552728944794,
+            23.691424010295094
+        ]
+    },
+    {
+        "fid": "214",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "PIONIER: Usine eau gazeuse et boissons rafraichissante (biere)",
+        "geometryProperty": [
+            52.089767780423635,
+            23.70047770374702
+        ]
+    },
+    {
+        "fid": "215",
+        "statut": "Construction/matériaux",
+        "Properties": "Entreprise de construction ",
+        "geometryProperty": [
+            52.10893904199904,
+            23.678565194249703
+        ]
+    },
+    {
+        "fid": "216",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.089420242281086,
+            23.701204198477658
+        ]
+    },
+    {
+        "fid": "217",
+        "statut": "Commerçant/artisan",
+        "Properties": "Coiffeur",
+        "geometryProperty": [
+            52.08663451051623,
+            23.702859052799486
+        ]
+    },
+    {
+        "fid": "237",
+        "statut": "Commerçant/artisan",
+        "Properties": "Atelier de couture",
+        "geometryProperty": [
+            52.092416693676604,
+            23.68948183646787
+        ]
+    },
+    {
+        "fid": "238",
+        "statut": "Travail du bois",
+        "Properties": "Menuiserie",
+        "geometryProperty": [
+            52.09411561991513,
+            23.6982496960904
+        ]
+    },
+    {
+        "fid": "239",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.090931879374786,
+            23.697630405440407
+        ]
+    },
+    {
+        "fid": "240",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09138184009518,
+            23.699871717467104
+        ]
+    },
+    {
+        "fid": "243",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Brasserie",
+        "geometryProperty": [
+            52.10565106602428,
+            23.70195148931231
+        ]
+    },
+    {
+        "fid": "244",
+        "statut": "Production biens manufacturés",
+        "Properties": "Atelier de pinceaux et de brosse",
+        "geometryProperty": [
+            52.08785100885228,
+            23.695316359553182
+        ]
+    },
+    {
+        "fid": "245",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.099064452402054,
+            23.69661014810831
+        ]
+    },
+    {
+        "fid": "247",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Exploitation des meules de moulin",
+        "geometryProperty": [
+            52.09628183738241,
+            23.69121100512932
+        ]
+    },
+    {
+        "fid": "248",
+        "statut": "Commerçant/artisan",
+        "Properties": "Cordonnerie",
+        "geometryProperty": [
+            52.094353518614874,
+            23.6843446312714
+        ]
+    },
+    {
+        "fid": "249",
+        "statut": "Construction/matériaux",
+        "Properties": "Forge",
+        "geometryProperty": [
+            52.08859566228996,
+            23.70925400551673
+        ]
+    },
+    {
+        "fid": "250",
+        "statut": "Production biens manufacturés",
+        "Properties": "Réparation automobile: Firme polonaise Porzybut",
+        "geometryProperty": [
+            52.08562889649473,
+            23.688838612004535
+        ]
+    },
+    {
+        "fid": "251",
+        "statut": "Commerçant/artisan",
+        "Properties": "Tailleur",
+        "geometryProperty": [
+            52.08322057554279,
+            23.68884213167518
+        ]
+    },
+    {
+        "fid": "253",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Exploitation agricole",
+        "geometryProperty": [
+            52.10117020200403,
+            23.67402693265058
+        ]
+    },
+    {
+        "fid": "254",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.102031461076486,
+            23.693554407755233
+        ]
+    },
+    {
+        "fid": "255",
+        "statut": "Entreprise Production alimentaire",
+        "Properties": "Moulin",
+        "geometryProperty": [
+            52.101810765574875,
+            23.69802085079355
+        ]
+    },
+    {
+        "fid": "256",
+        "statut": "Commerçant/artisan",
+        "Properties": "Boulangerie",
+        "geometryProperty": [
+            52.09617885042798,
+            23.683347727773672
+        ]
+    },
+    {
+        "fid": "258",
+        "statut": "Production biens manufacturés",
+        "Properties": "Entreprise de tricotage",
+        "geometryProperty": [
+            52.09638815323154,
+            23.69232839882969
+        ]
+    },
+    {
+        "fid": "259",
+        "statut": "Commerçant/artisan",
+        "Properties": "Hôtel Astoria",
+        "geometryProperty": [
+            52.101039626589376,
+            23.67175897137893
+        ]
+    }
+]

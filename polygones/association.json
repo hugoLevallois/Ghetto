@@ -1,0 +1,123 @@
+[
+    {
+        "fid": "a1",
+        "Properties": "Club de l’association culturelle Kadima",
+        "geometryProperty": [
+            52.09515554806425,
+            23.689065995547274
+        ]
+    },
+    {
+        "fid": "a2",
+        "Properties": "Union juive d'éducation sportive",
+        "geometryProperty": [
+            52.087824167892194,
+            23.69584401024691
+        ]
+    },
+    {
+        "fid": "a3",
+        "Properties": "Gmina Juive",
+        "geometryProperty": [
+            52.09115587514988,
+            23.695878751740672
+        ]
+    },
+    {
+        "fid": "a4",
+        "Properties": "JEAS",
+        "geometryProperty": [
+            52.09018626635351,
+            23.692326120963962
+        ]
+    },
+    {
+        "fid": "a5",
+        "Properties": "Association pour la préservation de la santé de la population juive ",
+        "geometryProperty": [
+            52.09021694766813,
+            23.689078364369145
+        ]
+    },
+    {
+        "fid": "a6",
+        "Properties": "Association Culturelle et scolaire Tarbut",
+        "geometryProperty": [
+            52.09021561331847,
+            23.68910442504036
+        ]
+    },
+    {
+        "fid": "a7",
+        "Properties": "Club civique uni de Brest",
+        "geometryProperty": [
+            52.09401567936581,
+            23.689056647143136
+        ]
+    },
+    {
+        "fid": "a8",
+        "Properties": "Association sportive juive",
+        "geometryProperty": [
+            52.09108426650216,
+            23.693669385947825
+        ]
+    },
+    {
+        "fid": "a9",
+        "Properties": "Association de marchands à Varsovie",
+        "geometryProperty": [
+            52.08818695085928,
+            23.69512873645558
+        ]
+    },
+    {
+        "fid": "a12",
+        "Properties": "Association des participants juifs à la lutte pour l'indépendance de la Pologne",
+        "geometryProperty": [
+            52.091900865133105,
+            23.6907918535014
+        ]
+    },
+    {
+        "fid": "a13",
+        "Properties": "Comité central des artisans juifs, branche de Brest",
+        "geometryProperty": [
+            52.09267007496419,
+            23.69486919911831
+        ]
+    },
+    {
+        "fid": "a14",
+        "Properties": "Organisation centrale des Juifs orthodoxes",
+        "geometryProperty": [
+            52.08756679451403,
+            23.694325152384533
+        ]
+    },
+    {
+        "fid": "a15",
+        "Properties": "Organisation des Sionistes de Pologne",
+        "geometryProperty": [
+            52.08886390779259,
+            23.693097190209908
+        ]
+    },
+    {
+        "fid": "a16",
+        "Properties": "Ligue d’aide aux travailleurs en Palestine",
+        "geometryProperty": [
+            52.09383788829672,
+            23.692333418423352
+        ]
+    },
+   
+    {
+        "fid": "a258",
+        "Properties": "Bureau des requêtes du Judenrat",
+        "geometryProperty": [
+            52.09149553346755,
+            23.696190096868882
+        ]
+    }
+]

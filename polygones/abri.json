@@ -1,0 +1,90 @@
+[
+    {
+        "fid": "1",
+        "Properties": "Abri de l'hôpital militaire N°8",
+        "geometryProperty": [
+            52.09262442104646,
+            23.685318021807383
+        ]
+    },
+    {
+        "fid": "2",
+        "Properties": "Abri de l'hôpital militaire N°1",
+        "geometryProperty": [
+            52.093130591244595,
+            23.684696772120606
+        ]
+    },
+    {
+        "fid": "3",
+        "Properties": "Abri de l'hôpital militaire N°2",
+        "geometryProperty": [
+            52.09397859377974,
+            23.68393277864744
+        ]
+    },
+    {
+        "fid": "4",
+        "Properties": "Abri du club des soldats (ancienne banque)",
+        "geometryProperty": [
+            52.094467353616245,
+            23.683355450125728
+        ]
+    },
+    {
+        "fid": "5",
+        "Properties": "Abri rue Mickiewicza",
+        "geometryProperty": [
+            52.095897963612224,
+            23.68330756961037
+        ]
+    },
+    {
+        "fid": "6",
+        "Properties": "Abri rue Nemeckaâ / Unii Lubelskiej",
+        "geometryProperty": [
+            52.09730081063368,
+            23.68036660103248
+        ]
+    },
+    {
+        "fid": "7",
+        "Properties": "Abri du foyer central des employés des chemins de fer: dispose d'un poste de tir",
+        "geometryProperty": [
+            52.09920815928158,
+            23.6890859191128
+        ]
+    },
+    {
+        "fid": "8",
+        "Properties": "",
+        "geometryProperty": [
+            52.08540161861072,
+            23.678750699351475
+        ]
+    },
+    {
+        "fid": "9",
+        "Properties": "",
+        "geometryProperty": [
+            52.08679975600948,
+            23.680257956006866
+        ]
+    },
+    {
+        "fid": "10",
+        "Properties": "",
+        "geometryProperty": [
+            52.090095761035855,
+            23.692752922043802
+        ]
+    },
+    {
+        "fid": "11",
+        "Properties": "",
+        "geometryProperty": [
+            52.090534393786776,
+            23.691728989542327
+        ]
+    }
+]

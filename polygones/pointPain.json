@@ -1,0 +1,101 @@
+[
+    {
+        "fid": "point1",
+        "Type": 1,
+        "Properties": "Point de distribution du pain du secteur 1",
+        "geometryProperty": [
+            52.06683648902719,
+            23.686609597515265
+        ]
+    },
+    {
+        "fid": "point2",
+        "Type": 2,
+        "Properties": "Point de distribution du pain du secteur 2",
+        "geometryProperty": [
+            52.085470237032844,
+            23.69707527496876
+        ]
+    },
+    {
+        "fid": "point3",
+        "Type": 3,
+        "Properties": "Point de distribution du pain du secteur 3",
+        "geometryProperty": [
+            52.08705207674526,
+            23.701382902917008
+        ]
+    },
+    {
+        "fid": "point4",
+        "Type": 4,
+        "Properties": "Point de distribution du pain du secteur 4",
+        "geometryProperty": [
+            52.09719461547078,
+            23.69098369031697
+        ]
+    },
+    {
+        "fid": "point5",
+        "Type": 5,
+        "Properties": "Point de distribution du pain du secteur 5",
+        "geometryProperty": [
+            52.096295146108574,
+            23.699256644549866
+        ]
+    },
+    {
+        "fid": "point6",
+        "Type": 6,
+        "Properties": "Point de distribution du pain du secteur 6",
+        "geometryProperty": [
+            52.09133674221145,
+            23.699913893863634
+        ]
+    },
+    {
+        "fid": "point7",
+        "Type": 7,
+        "Properties": "Point de distribution du pain du secteur 7",
+        "geometryProperty": [
+            52.09088297840525,
+            23.69761160336037
+        ]
+    },
+    {
+        "fid": "point8",
+        "Type": 8,
+        "Properties": "Point de distribution du pain du secteur 8",
+        "geometryProperty": [
+            52.090415873162364,
+            23.695744246738858
+        ]
+    },
+    {
+        "fid": "point9",
+        "Type": 9,
+        "Properties": "Point de distribution du pain du secteur 9",
+        "geometryProperty": [
+            52.08439228718568,
+            23.695794626503456
+        ]
+    },
+    {
+        "fid": "point10",
+        "Type": 10,
+        "Properties": "Point de distribution du pain du secteur 10",
+        "geometryProperty": [
+            52.099158092197555,
+            23.691121175508403
+        ]
+    },
+    {
+        "fid": "point11",
+        "Type": 11,
+        "Properties": "Point de distribution du pain du secteur 11",
+        "geometryProperty": [
+            52.097401104636695,
+            23.68563640505649
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "fid": 1,
+        "Properties": "Parc Wolnosci",
+        "geometryProperty": [
+            [
+                52.08451476,
+                23.68107831
+            ],
+            [
+                52.08460703,
+                23.68645427
+            ]
+        ]
+    },
+    {
+        "fid": 2,
+        "Properties": "Jardin Municipal",
+        "geometryProperty": [
+            [
+                52.09265867,
+                23.67334652
+            ],
+            [
+                52.09579567,
+                23.68145352
+            ]
+        ]
+    }
+]

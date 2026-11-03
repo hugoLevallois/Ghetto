@@ -1,0 +1,1128 @@
+[
+    {
+        "fid": "1",
+        "type": "Armement/défense",
+        "Properties": "Canon anti-aérien",
+        "geometryProperty": [
+            52.089675091187075,
+            23.672944336495494
+        ]
+    },
+    {
+        "fid": "2",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Atelier militaire",
+        "geometryProperty": [
+            52.088229621320544,
+            23.687082318246375
+        ]
+    },
+    {
+        "fid": "3",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Atelier de réparation des avions",
+        "geometryProperty": [
+            52.096734033038224,
+            23.686882219543634
+        ]
+    },
+    {
+        "fid": "4",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Quartier militaire",
+        "geometryProperty": [
+            52.09341892966894,
+            23.704079506667828
+        ]
+    },
+    {
+        "fid": "5",
+        "type": "Armement/défense",
+        "Properties": "Bataillon de Sécurité 604",
+        "geometryProperty": [
+            52.0996245785858,
+            23.687068481900017
+        ]
+    },
+    {
+        "fid": "6",
+        "type": "Armement/défense",
+        "Properties": "Unité militaire 110894",
+        "geometryProperty": [
+            52.086446843218916,
+            23.693760943124413
+        ]
+    },
+    {
+        "fid": "7",
+        "type": "Armement/défense",
+        "Properties": "Baterrie anti-aérienne",
+        "geometryProperty": [
+            52.09011737492742,
+            23.68919550933882
+        ]
+    },
+    {
+        "fid": "8",
+        "type": "Maintien de l’ordre",
+        "Properties": "Positionnement de soldats allemand",
+        "geometryProperty": [
+            52.098332001103735,
+            23.697132017260582
+        ]
+    },
+    {
+        "fid": "9",
+        "type": "Armement/défense",
+        "Properties": "Positionnements de détachement militaires",
+        "geometryProperty": [
+            52.09851675505812,
+            23.698443629622385
+        ]
+    },
+    {
+        "fid": "10",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Hôpital militaire N°7",
+        "geometryProperty": [
+            52.09054577879661,
+            23.6861656036176
+        ]
+    },
+    {
+        "fid": "11",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Hôpital militaire N°8/de campagne de reserve 3",
+        "geometryProperty": [
+            52.09266359603596,
+            23.68527894710716
+        ]
+    },
+    {
+        "fid": "12",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Hôpital militaire N°1 de campagne de reserve 1",
+        "geometryProperty": [
+            52.09309792081915,
+            23.684855332339634
+        ]
+    },
+    {
+        "fid": "13",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Hôpital militaire N°2 /de campagne de reserve 2",
+        "geometryProperty": [
+            52.0939981627087,
+            23.68391087850068
+        ]
+    },
+    {
+        "fid": "14",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Hôpital militaire N°4",
+        "geometryProperty": [
+            52.09276825522193,
+            23.686170825238325
+        ]
+    },
+    {
+        "fid": "15",
+        "type": "Armement/défense",
+        "Properties": "Détachement SS",
+        "geometryProperty": [
+            52.09349689761591,
+            23.687368068279376
+        ]
+    },
+    {
+        "fid": "16",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Inspection générales des réseaux routiers allemands",
+        "geometryProperty": [
+            52.09581697783024,
+            23.68960127635977
+        ]
+    },
+    {
+        "fid": "17",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Casernes",
+        "geometryProperty": [
+            52.09613454112052,
+            23.69165484778452
+        ]
+    },
+    {
+        "fid": "18",
+        "type": "Maintien de l’ordre",
+        "Properties": "Police Allemande",
+        "geometryProperty": [
+            52.09506828439271,
+            23.68266876912229
+        ]
+    },
+    {
+        "fid": "20",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Club des soldats",
+        "geometryProperty": [
+            52.09449617898323,
+            23.68332308088274
+        ]
+    },
+    {
+        "fid": "21",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Foyer des employés des chemins de fer",
+        "geometryProperty": [
+            52.09635006670258,
+            23.683798448496976
+        ]
+    },
+    {
+        "fid": "22",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Baraquement",
+        "geometryProperty": [
+            52.097677216984145,
+            23.682157079945068
+        ]
+    },
+    {
+        "fid": "23",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Dépôts de produit d'allimentation",
+        "geometryProperty": [
+            52.09998739638827,
+            23.687104190676237
+        ]
+    },
+    {
+        "fid": "24",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Foyer central des employés des chemins de fer",
+        "geometryProperty": [
+            52.099315833804326,
+            23.68924043955299
+        ]
+    },
+    {
+        "fid": "25",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Casernes",
+        "geometryProperty": [
+            52.10183585110959,
+            23.703874788772783
+        ]
+    },
+    {
+        "fid": "26",
+        "type": "Administration militaire",
+        "Properties": "école des officiers allemands",
+        "geometryProperty": [
+            52.095143114379866,
+            23.673604546927933
+        ]
+    },
+    {
+        "fid": "27",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Service d'artillerie et de ravitaillement technique de l'artillerie B",
+        "geometryProperty": [
+            52.09626280545665,
+            23.687346388216174
+        ]
+    },
+    {
+        "fid": "28",
+        "type": "Maintien de l’ordre",
+        "Properties": "Compagnie (militaire)  de transmissions à emploi particulier 597",
+        "geometryProperty": [
+            52.09122861583068,
+            23.68177010846896
+        ]
+    },
+    {
+        "fid": "29",
+        "type": "Maintien de l’ordre",
+        "Properties": "Commandement de la brigade autoportée",
+        "geometryProperty": [
+            52.094884576647495,
+            23.687434638369655
+        ]
+    },
+    {
+        "fid": "30",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Génie : Service de Construction Militaire de l’armée de terre ",
+        "geometryProperty": [
+            52.08680112717018,
+            23.695555423392307
+        ]
+    },
+    {
+        "fid": "31",
+        "type": "Maintien de l’ordre",
+        "Properties": "Garde du pont Kobrinskij",
+        "geometryProperty": [
+            52.08178535795469,
+            23.685554823183097
+        ]
+    },
+    {
+        "fid": "32",
+        "type": "Maintien de l’ordre",
+        "Properties": "Siege de commandement des SS et SD",
+        "geometryProperty": [
+            52.0926281627369,
+            23.687850478369743
+        ]
+    },
+    {
+        "fid": "33",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Foyer de la Wehrmacht",
+        "geometryProperty": [
+            52.09488258944681,
+            23.69256233152891
+        ]
+    },
+    {
+        "fid": "34",
+        "type": "Armement/défense",
+        "Properties": "Unité militaire",
+        "geometryProperty": [
+            52.092864680114,
+            23.691194370947514
+        ]
+    },
+    {
+        "fid": "36",
+        "type": "Armement/défense",
+        "Properties": "Poste radio transmission militaire",
+        "geometryProperty": [
+            52.09019174775779,
+            23.701053603589827
+        ]
+    },
+    {
+        "fid": "37",
+        "type": "Aéroport",
+        "Properties": "Aéroport",
+        "geometryProperty": [
+            52.11484395476277,
+            23.65637763953895
+        ]
+    },
+    {
+        "fid": "38",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Caserne Piłsudski",
+        "geometryProperty": [
+            52.09079691633198,
+            23.692839895377215
+        ]
+    },
+    {
+        "fid": "39",
+        "type": "Administration militaire",
+        "Properties": "Etat major de dépôt de matériels de l’armée de l’air 8",
+        "geometryProperty": [
+            52.092857577237545,
+            23.684502056045307
+        ]
+    },
+    {
+        "fid": "40",
+        "type": "Maintien de l’ordre",
+        "Properties": "Lieu de rassemblement / concentration",
+        "geometryProperty": [
+            52.08417779147063,
+            23.691482571732326
+        ]
+    },
+    {
+        "fid": "41",
+        "type": "Armement/défense",
+        "Properties": "Unité de sécurité des fusiliers, 231e compagnie",
+        "geometryProperty": [
+            52.09059763771546,
+            23.692878230151717
+        ]
+    },
+    {
+        "fid": "42",
+        "type": "Armement/défense",
+        "Properties": "22 ème groupe de campagne des voies fluviales",
+        "geometryProperty": [
+            52.089139336909426,
+            23.688771195289515
+        ]
+    },
+    
+    {
+        "fid": "47",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Administration des cantonnements de l'armée de terre",
+        "geometryProperty": [
+            52.08985203654168,
+            23.687027920176195
+        ]
+    },
+    {
+        "fid": "48",
+        "type": "Administration militaire",
+        "Properties": "Bureau d’affectation des véhicules pour l’armée",
+        "geometryProperty": [
+            52.09185441323964,
+            23.69369604787256
+        ]
+    },
+    {
+        "fid": "49",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Appartement commandant",
+        "geometryProperty": [
+            52.09960896394141,
+            23.699890360924265
+        ]
+    },
+    {
+        "fid": "50",
+        "type": "Armement/défense",
+        "Properties": "Peloton de fusiliers de la Luftwaffe",
+        "geometryProperty": [
+            52.08985542735386,
+            23.688736443845492
+        ]
+    },
+    {
+        "fid": "51",
+        "type": "Infrastructure transport",
+        "Properties": "Parc n°8 -Équipement pris par la Luftwaffe",
+        "geometryProperty": [
+            52.097390181836104,
+            23.68339025148257
+        ]
+    },
+    {
+        "fid": "52",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Construction de communications, service de communications aériennes",
+        "geometryProperty": [
+            52.08702111904024,
+            23.69139035577315
+        ]
+    },
+    {
+        "fid": "53",
+        "type": "Armement/défense",
+        "Properties": "2e compagnie du 604 bataillon de surveillance",
+        "geometryProperty": [
+            52.0848515082026,
+            23.69090008757873
+        ]
+    },
+    {
+        "fid": "54",
+        "type": "Armement/défense",
+        "Properties": "Patrouille militaire",
+        "geometryProperty": [
+            52.091220066642904,
+            23.691888207339783
+        ]
+    },
+    {
+        "fid": "55",
+        "type": "Armement/défense",
+        "Properties": "Douanes et gardes-frontieres",
+        "geometryProperty": [
+            52.09086868847409,
+            23.6923850272979
+        ]
+    },
+    {
+        "fid": "56",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Bureau de poste aérienne de campagne n° 31731",
+        "geometryProperty": [
+            52.088973886523135,
+            23.684568379049363
+        ]
+    },
+    {
+        "fid": "57",
+        "type": "Maintien de l’ordre",
+        "Properties": "Stadt-Kommandantur",
+        "geometryProperty": [
+            52.095315612170786,
+            23.682129037183685
+        ]
+    },
+    {
+        "fid": "58",
+        "type": "Armement/défense",
+        "Properties": "Unité mobile de l'Abwehr ( service renseignement militaire allemand)/Point de contrôle Gropp",
+        "geometryProperty": [
+            52.09495698117276,
+            23.681246840791548
+        ]
+    },
+    {
+        "fid": "59",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Etat-major du 604e bataillon de surveillance",
+        "geometryProperty": [
+            52.09999222859236,
+            23.687909496476664
+        ]
+    },
+    {
+        "fid": "60",
+        "type": "Organisation Todt",
+        "Properties": "Point de controle Gropp",
+        "geometryProperty": [
+            52.09301158502623,
+            23.68860014938312
+        ]
+    },
+    {
+        "fid": "61",
+        "type": "Armement/défense",
+        "Properties": "Unité de ravitaillement",
+        "geometryProperty": [
+            52.09594216546869,
+            23.68266708297261
+        ]
+    },
+    {
+        "fid": "62",
+        "type": "Maintien de l’ordre",
+        "Properties": "Camp de travail Juif",
+        "geometryProperty": [
+            52.09792235506591,
+            23.690047526929067
+        ]
+    },
+    {
+        "fid": "63",
+        "type": "Armement/défense",
+        "Properties": "Bataillon de sécurité 58/compagnie 2",
+        "geometryProperty": [
+            52.08487526869028,
+            23.690865127431046
+        ]
+    },
+    {
+        "fid": "64",
+        "type": "Administration militaire",
+        "Properties": "Etat-major du 231 ème bataillon territorial de sécurité",
+        "geometryProperty": [
+            52.09079235875057,
+            23.692959628790295
+        ]
+    },
+    {
+        "fid": "65",
+        "type": "Armement/défense",
+        "Properties": "Bataillon de construction de l’armée de l’air (Luftwaffe) 10/6",
+        "geometryProperty": [
+            52.08959667801001,
+            23.688741551956785
+        ]
+    },
+    {
+        "fid": "66",
+        "type": "Armement/défense",
+        "Properties": "Compagnie de transmissions pour emploi spécial 597",
+        "geometryProperty": [
+            52.10388553071881,
+            23.71193043879709
+        ]
+    },
+    {
+        "fid": "67",
+        "type": "Maintien de l’ordre",
+        "Properties": "Commandement de la Gendarmerie",
+        "geometryProperty": [
+            52.09357880833345,
+            23.6875229704708
+        ]
+    },
+    {
+        "fid": "68",
+        "type": "Administration militaire",
+        "Properties": "Bureau de coordination du front",
+        "geometryProperty": [
+            52.08646726801585,
+            23.692336866417996
+        ]
+    },
+    {
+        "fid": "69",
+        "type": "Armement/défense",
+        "Properties": "Service de logement et d'entretien de la Wehrmacht",
+        "geometryProperty": [
+            52.09072583842097,
+            23.692505799816256
+        ]
+    },
+    {
+        "fid": "70",
+        "type": "Armement/défense",
+        "Properties": "Unité de sécurité des fusiliers, 2e compagnie",
+        "geometryProperty": [
+            52.09051935205376,
+            23.692823610936454
+        ]
+    },
+    {
+        "fid": "71",
+        "type": "Administration militaire",
+        "Properties": "Direction des transports automobiles des troupes",
+        "geometryProperty": [
+            52.08673443738949,
+            23.68640848647694
+        ]
+    },
+    {
+        "fid": "72",
+        "type": "Armement/défense",
+        "Properties": "Compagnie (militaire)  de transmissions à emploi particulier 597",
+        "geometryProperty": [
+            52.101974483795104,
+            23.677589610629088
+        ]
+    },
+    {
+        "fid": "73",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Atelier récupération des pièces détachées des avions abattus",
+        "geometryProperty": [
+            52.08650694850508,
+            23.6887961231175
+        ]
+    },
+    {
+        "fid": "74",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Service alimentaire de la réserve du commandement principal n°814",
+        "geometryProperty": [
+            52.086648612609814,
+            23.68637864032544
+        ]
+    },
+    {
+        "fid": "75",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Centre de réparation automobile militaire n° 609",
+        "geometryProperty": [
+            52.098094046546635,
+            23.695850465442717
+        ]
+    },
+    {
+        "fid": "76",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Point de réexpédition du courrier sur le terrain n°537",
+        "geometryProperty": [
+            52.08646662516218,
+            23.690357731202475
+        ]
+    },
+    {
+        "fid": "77",
+        "type": "Administration militaire",
+        "Properties": "Bureau du commandant de garnison I /899\n",
+        "geometryProperty": [
+            52.093944967036215,
+            23.679901667694292
+        ]
+    },
+    {
+        "fid": "78",
+        "type": "Armement/défense",
+        "Properties": "502e compagnie de garde ferroviaire",
+        "geometryProperty": [
+            52.09557608354734,
+            23.685421591811732
+        ]
+    },
+    {
+        "fid": "79",
+        "type": "Armement/défense",
+        "Properties": "Peloton de sécurité des fusiliers 65 et 66",
+        "geometryProperty": [
+            52.09178263896054,
+            23.689146059060317
+        ]
+    },
+    {
+        "fid": "80",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Inspection de l’armement et équipements militaires (district) Ukraine",
+        "geometryProperty": [
+            52.096139475093736,
+            23.682447827484992
+        ]
+    },
+    {
+        "fid": "81",
+        "type": "Administration militaire",
+        "Properties": "Administration du logement militaire",
+        "geometryProperty": [
+            52.09140781925297,
+            23.674096043930984
+        ]
+    },
+    {
+        "fid": "82",
+        "type": "Organisation Todt",
+        "Properties": "Société d’exploitation Johannes Jeserich",
+        "geometryProperty": [
+            52.08496987329521,
+            23.687166953942768
+        ]
+    },
+    {
+        "fid": "83",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Magasin d’alimentation et foyer des fonctionnaires allemands",
+        "geometryProperty": [
+            52.09406717320918,
+            23.68633622247721
+        ]
+    },
+    {
+        "fid": "85",
+        "type": "Organisation Todt",
+        "Properties": "Chantier de fortification sud/ Bureau de coordination du front ",
+        "geometryProperty": [
+            52.08646417539917,
+            23.69216925069304
+        ]
+    },
+    {
+        "fid": "86",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Bauke : Département de la construction Bug Sud",
+        "geometryProperty": [
+            52.09352505628352,
+            23.68891308676352
+        ]
+    },
+    {
+        "fid": "87",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise de construction Fischer",
+        "geometryProperty": [
+            52.095535785219035,
+            23.690135186046195
+        ]
+    },
+    {
+        "fid": "88",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Reineke et Compagnie",
+        "geometryProperty": [
+            52.08548609171742,
+            23.691416581835373
+        ]
+    },
+    {
+        "fid": "89",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Säger et Woerner",
+        "geometryProperty": [
+            52.091522103753604,
+            23.692030961342603
+        ]
+    },
+    {
+        "fid": "90",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Atelier de la ville (mécanique)",
+        "geometryProperty": [
+            52.089282201812104,
+            23.69307738770742
+        ]
+    },
+    {
+        "fid": "91",
+        "type": "Maintien de l’ordre",
+        "Properties": "Gendarmerie",
+        "geometryProperty": [
+            52.08740367464241,
+            23.69555537387842
+        ]
+    },
+    {
+        "fid": "92",
+        "type": "Administration",
+        "Properties": "Administration chargée du logement",
+        "geometryProperty": [
+            52.096936890953494,
+            23.693717454180696
+        ]
+    },
+    {
+        "fid": "93",
+        "type": "Organisation Todt",
+        "Properties": "Fortification Sud du bug ",
+        "geometryProperty": [
+            52.08484602587973,
+            23.690793026823606
+        ]
+    },
+    {
+        "fid": "94",
+        "type": "Maintien de l’ordre",
+        "Properties": "Administration de la police du maintien de l’ordre",
+        "geometryProperty": [
+            52.0924037165372,
+            23.689180305953467
+        ]
+    },
+    {
+        "fid": "95",
+        "type": "Maintien de l’ordre",
+        "Properties": "Commissariat de la ville",
+        "geometryProperty": [
+            52.0921694533601,
+            23.69301722136015
+        ]
+    },
+    {
+        "fid": "96",
+        "type": "Organisation Todt",
+        "Properties": "Direction de la construction Bug sud",
+        "geometryProperty": [
+            52.09809651952072,
+            23.68552195444338
+        ]
+    },
+    {
+        "fid": "98",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Dépôts de carburant",
+        "geometryProperty": [
+            52.09577817936292,
+            23.675830095840876
+        ]
+    },
+    {
+        "fid": "99",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Centre d’épouillage",
+        "geometryProperty": [
+            52.095327130286684,
+            23.676832239965012
+        ]
+    },
+    {
+        "fid": "100",
+        "type": "Organisation Todt",
+        "Properties": "Direction des travaux Bug Sud",
+        "geometryProperty": [
+            52.0870412883768,
+            23.696717319962413
+        ]
+    },
+    {
+        "fid": "101",
+        "type": "Administration",
+        "Properties": "Gestion des Transports Routiers",
+        "geometryProperty": [
+            52.095403900814375,
+            23.688227088319852
+        ]
+    },
+    {
+        "fid": "102",
+        "type": "Organisation Todt",
+        "Properties": "Organisation Todt",
+        "geometryProperty": [
+            52.08770683020528,
+            23.693042050953476
+        ]
+    },
+    {
+        "fid": "103",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise de construction de routes Heinrich Stickel",
+        "geometryProperty": [
+            52.08776217908842,
+            23.6953936733574
+        ]
+    },
+    {
+        "fid": "104",
+        "type": "Organisation Todt",
+        "Properties": "Chantier de construction Est de Cracovie SARL",
+        "geometryProperty": [
+            52.09609644148348,
+            23.694589119388468
+        ]
+    },
+    {
+        "fid": "105",
+        "type": "Maintien de l’ordre",
+        "Properties": "Kommandantur de gare",
+        "geometryProperty": [
+            52.099522133574666,
+            23.685703819196846
+        ]
+    },
+    {
+        "fid": "106",
+        "type": "Administration",
+        "Properties": "Direction d’exploitation ferroviaire",
+        "geometryProperty": [
+            52.09934968065771,
+            23.685305921488677
+        ]
+    },
+    {
+        "fid": "107",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Günter",
+        "geometryProperty": [
+            52.0912651869777,
+            23.687113329175137
+        ]
+    },
+    {
+        "fid": "108",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Klink",
+        "geometryProperty": [
+            52.09568015934808,
+            23.687313130847482
+        ]
+    },
+    {
+        "fid": "110",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Caserne",
+        "geometryProperty": [
+            52.10432536653225,
+            23.671595261260308
+        ]
+    },
+    {
+        "fid": "111",
+        "type": "Administration",
+        "Properties": "Etat-major de la construction ferroviaire  N °139",
+        "geometryProperty": [
+            52.09642643337167,
+            23.68375957477058
+        ]
+    },
+    {
+        "fid": "112",
+        "type": "Administration",
+        "Properties": "Le chef du bureau du dépôt de matériel pour la construction et entretien des routes",
+        "geometryProperty": [
+            52.08792634972808,
+            23.69092694285883
+        ]
+    },
+    {
+        "fid": "113",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise construction de routes",
+        "geometryProperty": [
+            52.09116227224205,
+            23.69088848772255
+        ]
+    },
+    {
+        "fid": "114",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Bureau d’approvisionnement et de distribution",
+        "geometryProperty": [
+            52.08829801205613,
+            23.692609342959862
+        ]
+    },
+    {
+        "fid": "115",
+        "type": "Administration",
+        "Properties": "Bureau allemand du travail",
+        "geometryProperty": [
+            52.09552505648575,
+            23.68808426359088
+        ]
+    },
+    {
+        "fid": "118",
+        "type": "Organisation Todt",
+        "Properties": "Compagnie de construction ferroviaire",
+        "geometryProperty": [
+            52.089346476362124,
+            23.688759943392295
+        ]
+    },
+    {
+        "fid": "119",
+        "type": "Organisation Todt",
+        "Properties": "Direction supérieure de la construction",
+        "geometryProperty": [
+            52.08950374718199,
+            23.686124893872854
+        ]
+    },
+    {
+        "fid": "120",
+        "type": "Administration",
+        "Properties": "Commandement du déblayage de la neige",
+        "geometryProperty": [
+            52.099168431291716,
+            23.68446243255607
+        ]
+    },
+    {
+        "fid": "121",
+        "type": "Administration",
+        "Properties": "Direction de l’exploitation du bois et des forêts",
+        "geometryProperty": [
+            52.087309966695265,
+            23.689234911947135
+        ]
+    },
+    {
+        "fid": "122",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Bureau des moteurs et tracteurs",
+        "geometryProperty": [
+            52.09266398180788,
+            23.678668725949755
+        ]
+    },
+    {
+        "fid": "123",
+        "type": "Administration",
+        "Properties": "Inspection de la construction hydraulique",
+        "geometryProperty": [
+            52.08693622558988,
+            23.68226001065371
+        ]
+    },
+    {
+        "fid": "124",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Atelier Automobile",
+        "geometryProperty": [
+            52.09717504748327,
+            23.68364764672103
+        ]
+    },
+    {
+        "fid": "125",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Brüggerman",
+        "geometryProperty": [
+            52.101260550987284,
+            23.691551095090116
+        ]
+    },
+    {
+        "fid": "126",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Centre de ravitaillement de l’armée de terre 814",
+        "geometryProperty": [
+            52.09813549127183,
+            23.69702862035331
+        ]
+    },
+    {
+        "fid": "127",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Distribution de pétrole ukrainienne ",
+        "geometryProperty": [
+            52.087678927625284,
+            23.691438320765872
+        ]
+    },
+    {
+        "fid": "128",
+        "type": "Organisation Todt",
+        "Properties": "Société Wolfer et Goebel",
+        "geometryProperty": [
+            52.09976108767302,
+            23.686392259907883
+        ]
+    },
+    {
+        "fid": "129",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "Mess des officiers",
+        "geometryProperty": [
+            52.09502032391669,
+            23.682723636644518
+        ]
+    },
+    {
+        "fid": "130",
+        "type": "Maintien de l’ordre",
+        "Properties": "Position soldats allemands",
+        "geometryProperty": [
+            52.091600188452084,
+            23.700689789723832
+        ]
+    },
+    {
+        "fid": "131",
+        "type": "Maintien de l’ordre",
+        "Properties": "garde du pont pedestre",
+        "geometryProperty": [
+            52.102161648526426,
+            23.6812292487708
+        ]
+    },
+    {
+        "fid": "132",
+        "type": "Organisation Todt",
+        "Properties": "Dépôt de matériaux de construction de l’Organisation Todt Brest – Groupe d’intervention IV",
+        "geometryProperty": [
+            52.10539850293588,
+            23.6623562296003
+        ]
+    },
+    {
+        "fid": "133",
+        "type": "Infrastructure transport",
+        "Properties": "Panzerpark",
+        "geometryProperty": [
+            52.089896606909754,
+            23.683778455671188
+        ]
+    },
+    {
+        "fid": "134",
+        "type": "Organisation de l’armée d’occupation/logistique",
+        "Properties": "poste de transmission radiophonique",
+        "geometryProperty": [
+            52.09549776326205,
+            23.68476031179068
+        ]
+    },
+    {
+        "fid": "135",
+        "type": "Organisation Todt",
+        "Properties": "Entreprise Brüggerman",
+        "geometryProperty": [
+            52.092234451090505,
+            23.678768253389233
+        ]
+    },
+    {
+        "fid": "152",
+        "type": "Administration",
+        "Properties": "Kommmendura municipale (organe direction de la ville)",
+        "geometryProperty": [
+            52.0953685441382,
+            23.682307514544586
+        ]
+    }
+]

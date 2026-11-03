@@ -1,0 +1,332 @@
+[
+    {
+        "fid": "a1",
+        "capacite": 5000,
+        "religion": "Juive",
+        "Properties": "Grande synagogue",
+        "geometryProperty": [
+            52.09082978824426,
+            23.69459061219083
+        ]
+    },
+    {
+        "fid": "a2",
+        "capacite": 1000,
+        "religion": "Juive",
+        "Properties": "Synagogue Zelena",
+        "geometryProperty": [
+            52.088576482124374,
+            23.692796145121115
+        ]
+    },
+    {
+        "fid": "a3",
+        "capacite": 500,
+        "religion": "Juive",
+        "Properties": "Synagogue Fiszel",
+        "geometryProperty": [
+            52.090207505036076,
+            23.690283940952476
+        ]
+    },
+    {
+        "fid": "a4",
+        "capacite": 1000,
+        "religion": "Juive",
+        "Properties": "Synagogue Faywel",
+        "geometryProperty": [
+            52.088635125145096,
+            23.690875081648315
+        ]
+    },
+    {
+        "fid": "a5",
+        "capacite": 800,
+        "religion": "Juive",
+        "Properties": "Synagogue Szamayvint",
+        "geometryProperty": [
+            52.09391607647754,
+            23.694781599569538
+        ]
+    },
+    {
+        "fid": "a6",
+        "capacite": 150,
+        "religion": "Juive",
+        "Properties": "Synagogue Kobrzyńska",
+        "geometryProperty": [
+            52.08814450940192,
+            23.709524210204478
+        ]
+    },
+    {
+        "fid": "a7",
+        "capacite": 150,
+        "religion": "Juive",
+        "Properties": "Synagogue Nowa",
+        "geometryProperty": [
+            52.08350684919828,
+            23.696357974758516
+        ]
+    },
+    {
+        "fid": "a8",
+        "capacite": 300,
+        "religion": "Juive",
+        "Properties": "Synagogue Khaye-Odom",
+        "geometryProperty": [
+            52.09106061230943,
+            23.695987558088056
+        ]
+    },
+    {
+        "fid": "a9",
+        "capacite": 300,
+        "religion": "Juive",
+        "Properties": "Synagogue Dzoel Vinograd",
+        "geometryProperty": [
+            52.0902437430808,
+            23.69687997371419
+        ]
+    },
+    {
+        "fid": "a10",
+        "capacite": 60,
+        "religion": "Juive",
+        "Properties": "Shtiebel Karliner (Maison de prières)",
+        "geometryProperty": [
+            52.08814985282992,
+            23.697339653729895
+        ]
+    },
+    {
+        "fid": "a11",
+        "capacite": 60,
+        "religion": "Juive",
+        "Properties": "Shtiebel Gerer (Maison de prières)",
+        "geometryProperty": [
+            52.08792585810106,
+            23.696957022194784
+        ]
+    },
+    {
+        "fid": "a12",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Sznajderszes",
+        "geometryProperty": [
+            52.08610514366144,
+            23.69849911072232
+        ]
+    },
+    {
+        "fid": "a13",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogie Icko Khitera",
+        "geometryProperty": [
+            52.08414950070919,
+            23.69996277716851
+        ]
+    },
+    {
+        "fid": "a14",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Szayes",
+        "geometryProperty": [
+            52.088954106987046,
+            23.711813840869183
+        ]
+    },
+    {
+        "fid": "a15",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Abram Zisecher",
+        "geometryProperty": [
+            52.092292277998254,
+            23.691884350456228
+        ]
+    },
+    {
+        "fid": "a16",
+        "capacite": 300,
+        "religion": "Juive",
+        "Properties": "Synagogue Lisker",
+        "geometryProperty": [
+            52.09324431750503,
+            23.697196150303967
+        ]
+    },
+    {
+        "fid": "a17",
+        "capacite": 150,
+        "religion": "Juive",
+        "Properties": "Shtiebel Slonimer\n(Maison de prières)",
+        "geometryProperty": [
+            52.08857536430308,
+            23.692229147515743
+        ]
+    },
+    {
+        "fid": "a18",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Khackel",
+        "geometryProperty": [
+            52.089494081392104,
+            23.699091368916324
+        ]
+    },
+    {
+        "fid": "a19",
+        "capacite": 400,
+        "religion": "Juive",
+        "Properties": "Synagogue Egdesh",
+        "geometryProperty": [
+            52.084545449814776,
+            23.691450811655812
+        ]
+    },
+    {
+        "fid": "a20",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Chevra Kadisha",
+        "geometryProperty": [
+            52.091255986203684,
+            23.694237510136325
+        ]
+    },
+    {
+        "fid": "a21",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Ravvinska",
+        "geometryProperty": [
+            52.08913105943431,
+            23.69520758717569
+        ]
+    },
+    {
+        "fid": "a22",
+        "capacite": 300,
+        "religion": "Juive",
+        "Properties": "Synagogue Bobrowska",
+        "geometryProperty": [
+            52.098281116835714,
+            23.696441439098184
+        ]
+    },
+    {
+        "fid": "a23",
+        "capacite": 70,
+        "religion": "Juive",
+        "Properties": "Synagogue Minsker",
+        "geometryProperty": [
+            52.08918073017055,
+            23.69306912307718
+        ]
+    },
+    {
+        "fid": "a24",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Ziskes",
+        "geometryProperty": [
+            52.08540271363627,
+            23.693291670369817
+        ]
+    },
+    {
+        "fid": "a25",
+        "capacite": 150,
+        "religion": "Juive",
+        "Properties": "Synagogue Miszmar",
+        "geometryProperty": [
+            52.08427945490577,
+            23.694132519057103
+        ]
+    },
+    {
+        "fid": "a26",
+        "capacite": 40,
+        "religion": "Juive",
+        "Properties": "Synagogue Jakow",
+        "geometryProperty": [
+            52.090349053498386,
+            23.698659804239206
+        ]
+    },
+    {
+        "fid": "a27",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Kalowicki",
+        "geometryProperty": [
+            52.0854645855496,
+            23.700991418898706
+        ]
+    },
+    {
+        "fid": "a28",
+        "capacite": 250,
+        "religion": "Juive",
+        "Properties": "Synagogue Zojerrniker",
+        "geometryProperty": [
+            52.08958858872672,
+            23.701300890122326
+        ]
+    },
+    {
+        "fid": "a29",
+        "capacite": 200,
+        "religion": "Juive",
+        "Properties": "Synagogue Szmul Kalinin",
+        "geometryProperty": [
+            52.09138170916014,
+            23.701638136924966
+        ]
+    },
+    {
+        "fid": "a30",
+        "capacite": 500,
+        "religion": "Juive",
+        "Properties": "Synagogue Zydowska",
+        "geometryProperty": [
+            52.10187134331626,
+            23.680037502224092
+        ]
+    },
+    {
+        "fid": "a38",
+        "capacite": 0,
+        "religion": "Catholique",
+        "Properties": "Eglise Catholique Sainte Croix",
+        "geometryProperty": [
+            52.0931984,
+            23.6860629
+        ]
+    },
+    {
+        "fid": "a39",
+        "capacite": 0,
+        "religion": "Orthodoxe",
+        "Properties": "Cathédrale Orthodoxe Saint Nicholas",
+        "geometryProperty": [
+            52.097806271118586,
+            23.689151419155444
+        ]
+    },
+    {
+        "fid": "a40",
+        "capacite": 0,
+        "religion": "Orthodoxe",
+        "Properties": "Cathédrale Orthodoxe Saint Simeon",
+        "geometryProperty": [
+            52.08551317759027,
+            23.690028699572057
+        ]
+    }
+]

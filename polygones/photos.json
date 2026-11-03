@@ -1,0 +1,343 @@
+[
+  {
+    "id": "photo_001",
+    "geometryProperty": [52.0984666, 23.6905010],
+    "titre": "Petit marché",
+    "images": [
+      "/leaflet/images/photo/smallMarket1.jpg",
+      "/leaflet/images/photo/smallMarket2.jpg",
+      "/leaflet/images/photo/smallMarket3.jpg"
+  
+    ],
+    "legende": "Vue de la rue principale du ghetto.",
+    "source": "Archives nationales de Biélorussie, fonds 514",
+    "date": "Été 1941",
+    "auteur": "Photographe inconnu (Wehrmacht)"
+},
+{
+    "id": "photo_002",
+    "geometryProperty": [52.0849186, 23.6890569],
+    "titre": "Prison de Brest-Litovsk, 1940",
+    "images": [
+      "/leaflet/images/photo/prison1940.jpg"
+    ],
+    "legende": "Vue de la rue principale du ghetto.",
+    "source": "Archives nationales de Biélorussie, fonds 514",
+    "date": "1940",
+    "auteur": "Collection privé"
+},
+
+{
+    "id": "photo_003",
+    "geometryProperty": [52.0852694, 23.6954637],
+    "titre": "Grand marché",
+    "images": [
+      "/leaflet/images/photo/BigMarket1910.jpg",
+      "/leaflet/images/photo/BigMarket1920.jpg",
+      "/leaflet/images/photo/BigMarket1940.jpg"
+    ],
+    "legende": "Cartes postales et photos d'archives montrant le Grand marché de Brest à travers différentes periodes jusqu'a la parade conjointe de la Wehrmacht et de l'Armée rouge en 1939",
+    "source": "Bibliothèque nationale de Pologne et collections privées",
+    "date": "1905 - 1939"
+    
+},
+
+{
+    "id": "photo_004",
+    "geometryProperty": [52.0973429, 23.6871989],
+    "titre": "Rue Mickiewicza",
+    "images": [
+      "/leaflet/images/photo/egliseOrtho.jpg"
+    ],
+    "legende": "Carte postale montrant la cathédrale saint Nicolas",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1916"
+    
+},
+
+{
+    "id": "photo_005",
+    "geometryProperty": [52.0854235, 23.6857878],
+    "titre": "Jardin de la Ville",
+    "images": [
+      "/leaflet/images/photo/Park1.jpg",
+      "/leaflet/images/photo/Park2.jpg",
+      "/leaflet/images/photo/Park3.jpg"
+    ],
+    "legende": "Cartes postales montrant l'entrée et les allées du jardin",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1910-1914",
+    "auteur": "Edité par le magasin de tabac et de galanterie de H.Minc (1910-1914)"
+},
+{
+    "id": "photo_006",
+    "geometryProperty": [52.098864, 23.686433],
+    "titre": "Vue partiel de Brest-Litovsk",
+    "images": [
+      "/leaflet/images/photo/VuedeBrest1.jpg"
+    ],
+    "legende": "Carte postale montrant la cathédrale Saint Nicolas",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1910-1919",
+    "auteur":" Imprimé par Niedersedlitz (Saxe) : Krey & Sommerlad"
+},
+
+{
+    "id": "photo_007",
+    "geometryProperty": [52.0946072, 23.6872437],
+    "titre": "Vue de la rue 3 ogo Maja",
+    "images": [
+      "/leaflet/images/photo/3ogoMaja.jpg"
+    ],
+    "legende": "Carte postale montrant la rue 3 ogo Maja",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1933",
+    "auteur": "Distribué par les kiosques Ruch "
+},
+
+{
+    "id": "photo_008",
+    "geometryProperty": [52.0950611, 23.6820698],
+    "titre": "Vue de la rue Pułaskiego",
+    "images": [
+      "/leaflet/images/photo/Pulaskiego.jpg"
+    ],
+    "legende": "Carte postale montrant la rue Pułaskiego",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1938",
+    "auteur": "Edité par Współczesna Sztuka"
+},
+ {
+    "id": "photo_009",
+    "geometryProperty": [52.0825032, 23.6983873],
+    "titre": "Au bord de la Muchawiec",
+    "images": [
+      "/leaflet/images/photo/Rive.jpg"
+    ],
+    "legende": "Carte postale montrant la rue Nadbrzeżna",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1937",
+    "auteur": "Edité par Współczesna Sztuka"
+},
+{
+    "id": "photo_010",
+    "geometryProperty": [52.0996679, 23.6839196],
+    "titre": "Viaduc ferroviaire",
+    "images": [
+      "/leaflet/images/photo/viaduc.jpg"
+    ],
+    "legende": "Carte postale montrant le pont ferroviaire de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": " vers 1920",
+    "auteur": "Photo de Jan Wołyński, distribué par les kiosques Ruch"
+},
+{
+    "id": "photo_011",
+    "geometryProperty": [52.0861604, 23.6898242],
+    "titre": "Bureau de poste et de télégraphe",
+    "images": [
+      "/leaflet/images/photo/poste.jpg"
+    ],
+    "legende": "Carte postale montrant le bureau de poste et de télégraphe",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": " vers 1930",
+    "auteur": "Edité par le magazine régional Rozwój na Kresach"
+},
+{
+    "id": "photo_012",
+    "geometryProperty": [52.0957539, 23.6903490],
+    "titre": "Magistrat ",
+    "images": [
+      "/leaflet/images/photo/magistrat.jpg"
+    ],
+    "legende": "Carte postale montrant le magistrat dans la rue du 3 ogo Maja",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": " Après 1918",
+    "auteur": "Publié par la librairie « Tania Książka »"
+},
+{
+    "id": "photo_013",
+    "geometryProperty": [52.0978649, 23.6884277],
+    "titre": "Lycée d’État pour garçons : Romuald Traugutta",
+    "images": [
+      "/leaflet/images/photo/lyceeTraugutta.jpg"
+    ],
+    "legende": "Carte postale montrant le Lycée d’État pour garçons : Romuald Traugutta situé rue Mickiewicza",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": " vers 1920"
+},
+{
+    "id": "photo_014",
+    "geometryProperty": [52.0903653, 23.6924547],
+    "titre": "Place Józefa Piłsudskiego",
+    "images": [
+      "/leaflet/images/photo/jozefa1.jpg",
+      "/leaflet/images/photo/jozefa.jpg"
+      
+    ],
+    "legende": "Cartes postales montrant la place Józefa Piłsudskiego, ce batiment sera détruit après la 1er guerre mondiale et remplacé par une caserne de pompier",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1910-1914",
+    "auteur": "Edité par le magasin de tabac et de galanterie de H.Minc (1910-1914)"
+},    
+
+{
+    "id": "photo_015",
+    "geometryProperty": [52.0903096, 23.6916031],
+    "titre": "Rue Litowskiego",
+    "images": [
+      "/leaflet/images/photo/jozefa2.jpg"
+    ],
+    "legende": "Cartes postales montrant la rue Litoskiewgo",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1910-1914",
+    "auteur": "Edité par le magasin de tabac et de galanterie de H.Minc (1910-1914)"
+},
+{
+    "id": "photo_016",
+    "geometryProperty": [52.0944105, 23.6838426],
+    "titre": "Banque Polonaise rue Unii Lubelskiej",
+    "images": [
+      "/leaflet/images/photo/bank.jpg"
+    ],
+    "legende": "Cartes postales montrant la banque Polonaise",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1930",
+    "auteur": "Distribué par les kiosques Ruch"
+},
+{
+    "id": "photo_016",
+    "geometryProperty": [52.0959125, 23.6822675],
+    "titre": "Rue Unii Lubelskiej",
+    "images": [
+      "/leaflet/images/photo/lubelskiej.jpg"
+    ],
+    "legende": "Cartes postales montrant la rue Unii Lubelskiej",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1930",
+    "auteur": "Distribué par les kiosques Ruch"
+},
+{
+    "id": "photo_017",
+    "geometryProperty": [52.0904650, 23.6943876],
+    "titre": "Grande Synagogue de Brest-Litovsk",
+    "images": [
+      "/leaflet/images/photo/grandeSynagogue.jpg"
+    ],
+    "legende": "Photo montrant la Grande Synagogue",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "XX e siecle",
+    "auteur": "Collection privé"
+},
+{
+    "id": "photo_018",
+    "geometryProperty": [52.09529115, 23.68554667],
+    "titre": "Rue Zygmunstowska",
+    "images": [
+      "/leaflet/images/photo/zygmun.jpg"
+    ],
+    "legende": "Photo montrant la rue Zygmunstowska montrant une villa d'un médedin (docteur Korol)",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1920",
+    "auteur": "Collection privé"
+},
+{
+    "id": "photo_019",
+    "geometryProperty": [52.0845408, 23.6911943],
+    "titre": "Synagogue Egdesh",
+    "images": [
+      "/leaflet/images/photo/EkdeshSynagogue.jpg"
+    ],
+    "legende": "Photo montrant la Synagogue Egdesh en 1916 lors de l'occupation allemande durant la WW1",
+    "source": "Collection privé",
+    "date": "1916",
+    "auteur": "Collection privé"
+},
+{
+    "id": "photo_020",
+    "geometryProperty": [52.0997416, 23.6783716],
+    "titre": "Gare centrale de Brest",
+    "images": [
+      "/leaflet/images/photo/Gare1915.jpg",
+      "/leaflet/images/photo/Gare1925.jpg"
+    ],
+    "legende": "Cartes postales représentant la gare principale de Brest à différentes époque. <br><br><strong>  Periode Impérial Russe:</strong>   gare originel datant de 1886, et détruite par l'armée russe en retraite pour freiner l'avancée des troupes allemandes en 1915  <br><br><strong> Période Polonaise :</strong> reconstruction de la Gare dans un style néoclassicisme et modernisme.",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1914-1937",
+    "auteur": "1914: publié par T.P.N et imprimé par J.A.Lewandowski \n 1937 : édité par Współczesna Sztuka"
+},
+{
+    "id": "photo_021",
+    "geometryProperty": [52.0991559, 23.6788555],
+    "titre": "Arrivée du Train express",
+    "images": [
+      "/leaflet/images/photo/Quai.jpg"
+    ],
+    "legende": "Carte postale représentant le débarquement à quai des passagers du train express",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1917",
+    "auteur": "Edité par le magasin de tabac et de galanterie de H. Minc"
+},
+{
+    "id": "photo_022",
+    "geometryProperty": [52.1010425, 23.6834084],
+    "titre": "Vue sur la gare",
+    "images": [
+      "/leaflet/images/photo/RailEst.jpg"
+    ],
+    "legende": "Vue sur la gare de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1920"
+    
+},
+{
+    "id": "photo_023",
+    "geometryProperty": [52.0986916, 23.6778211],
+    "titre": "Vue sur la gare",
+    "images": [
+      "/leaflet/images/photo/RailOuest.jpg"
+    ],
+    "legende": "Vue sur la gare de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "1920"
+},
+{
+    "id": "photo_024",
+    "geometryProperty": [52.0997338, 23.6828990],
+    "titre": "Vue sur la gare",
+    "images": [
+      "/leaflet/images/photo/VueGareEst.jpg"
+    ],
+    "legende": "Vue sur la gare de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "Vers 1920",
+    "auteur": "Photo de Jan Wołyński, distribué par les kiosques Ruch"
+},
+{
+    "id": "photo_025",
+    "geometryProperty": [52.0971674, 23.6796744],
+    "titre": "Vue sur la gare",
+    "images": [
+      "/leaflet/images/photo/VueGareOuest.jpg"
+    ],
+    "legende": "Vue sur la gare de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "Vers 1920",
+    "auteur": "Photo de Jan Wołyński, distribué par les kiosques Ruch imprimé à Cracovie"
+},
+{
+    "id": "photo_026",
+    "geometryProperty": [52.0827509, 23.6545097],
+    "titre": "Eglise de la forteresse",
+    "images": [
+      "/leaflet/images/photo/Eglise_forteresse.jpg"
+    ],
+    "legende": "Eglise de la forteresse de Brest",
+    "source": "Bibliothèque nationale de Pologne",
+    "date": "vers 1919",
+    "auteur": "Edité à Berlin par Georg Stilke, Verlagsbuchhandlung "
+}
+
+ ]
+
+

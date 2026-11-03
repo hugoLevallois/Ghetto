@@ -1,0 +1,20 @@
+[
+    {
+        "fid": "45",
+        "type": "Lieu de massacre",
+        "Properties": "Lieu de massacre des Juifs qui ne pouvaient pas se déplacer lors de la liquidation du ghetto: 13-15 octobre 1942 ",
+        "geometryProperty": [
+            52.08824474256703,
+            23.697797415975597
+        ]
+    },
+    {
+        "fid": "46",
+        "type": "Lieu de massacre",
+        "Properties": "Extermination des juifs qui ne furent pas conduit à Bronnaïa Gora lors de la destruction du ghetto 15-18 octobre 1942",
+        "geometryProperty": [
+            52.086185567945456,
+            23.68692394017869
+        ]
+    }
+]
