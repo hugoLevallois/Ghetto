@@ -1021,7 +1021,7 @@ map.on('zoomend', function() {
     // On ajoute la nouvelle classe (ex: leaflet-zoom-15)
     container.classList.add('leaflet-zoom-' + zoom);
     
-    console.log("Classe ajoutée au conteneur : leaflet-zoom-" + zoom);
+    
 });
 document.addEventListener("DOMContentLoaded", async () => {
     // 1. Lancement de tous les chargements en parallèle
