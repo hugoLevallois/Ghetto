@@ -261,7 +261,7 @@ let nord = 52.111795023, est = 23.713871139;
 
 const imageBounds = [[sud, ouest], [nord, est]];
 
-const planOleg = L.imageOverlay('leaflet/images/carte_Oleg3.png', imageBounds, {
+const planOleg = L.imageOverlay('leaflet/images/carte_Oleg3.jpg', imageBounds, {
     opacity: 0.7,
     interactive: false,
     zIndex: 1
