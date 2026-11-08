@@ -773,9 +773,10 @@ function switchSideBarPhoto(photo) {
                 ${images.map((url, i) => `
                     <img src="${url}"
                          class="carousel-img"
+                         loading="lazy"
                          data-index="${i}"
                          onclick="openLightboxFromCarousel('${carouselId}', ${i})"
-                         onerror="this.src='leaflet/images/no-image.png'"/>
+                         onerror="this.onerror=null; this.src='leaflet/images/no-image.png'"/>
                 `).join('')}
             </div>
             ${total > 1 ? `
