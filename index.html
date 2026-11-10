@@ -10,15 +10,23 @@
   <link rel="stylesheet" href="L.Control.Layers.Tree.css" />
   <link rel="stylesheet" href="L.Control.Sidebar.css" />
 
-  <style>
-    html, body { height: 100%; margin: 0; }
-    #map { height: 95vh; width: 95%; margin: 0 auto; border: 1px solid black; background: #fff; }
-    #sidebar { /* laisse ton CSS plugin gérer; sinon tu peux styliser ici */ }
-  </style>
+<style>
+  html, body { height: 100%; margin: 0; }
+  #titre { text-align: center; padding: 10px 10px 6px; font-family: Georgia, serif; }
+  #titre h1 { margin: 0; font-size: 1.6rem; }
+  #titre p { margin: 2px 0 0; font-size: 0.9rem; color: #555; }
+  #map { height: calc(100vh - 85px); width: 95%; margin: 0 auto; border: 1px solid black; background: #fff; }
+  #sidebar { }
+</style>
+  
 </head>
 
   
   <body>
+     <header id="titre">
+    <h1>Le ghetto de Brest-Litovsk</h1>
+    <p>Carte interactive</p>
+  </header>
     <div id="map"></div>
   <div id="sidebar"><h1>Habitants</h1></div>
     
