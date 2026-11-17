@@ -372,4 +372,17 @@ img.leaflet-marker-icon {
     width: min(52vh, calc(100vw - 24px)) !important;
     min-width: 0 !important;
 }
-:root { color-scheme: only light; }
+:root {
+    color-scheme: only light !important;
+    background-color: #f4f1ec;
+}
+
+html, body {
+    color-scheme: only light !important;
+    background-color: #f4f1ec !important;
+    color: #2c3e50;
+}
+
+.leaflet-container {
+    background: #f4f1ec !important;
+}
