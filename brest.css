@@ -4,7 +4,8 @@
 .leaflet-control-layers-expanded {
     padding: 0 0 10px 10px !important; /* 0 en haut et à droite pour coller les bandes */
     max-height: 40vh !important;
-    width: 52vh;
+    width: min(52vh, calc(100vw - 24px));
+   box-sizing: border-box;
     overflow-y: auto !important;
     overflow-x: hidden !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15) !important;
@@ -112,8 +113,9 @@
 }
 
 .dynamic-legend {
-    width: 51vh;
-    max-height: 45vh;
+    width: min(51vh, calc(100vw - 24px));
+   max-height: 35vh;
+   box-sizing: border-box;
     overflow-y: auto;
     /*background: white;*/
     padding: 10px;
@@ -358,7 +360,7 @@ img.leaflet-marker-icon {
 }
 
 .leaflet-control-layers-expanded {
-    width: 52vh !important;
-    min-width: 300px !important;
+    width: min(52vh, calc(100vw - 24px)) !important;
+    min-width: 0 !important;
 }
 :root { color-scheme: light; }
