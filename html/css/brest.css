@@ -25,3 +25,5 @@ li {
 .list_label {
     font-weight:bold;
 }
+
+:root { color-scheme: light; }
