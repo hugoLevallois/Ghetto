@@ -372,17 +372,70 @@ img.leaflet-marker-icon {
     width: min(52vh, calc(100vw - 24px)) !important;
     min-width: 0 !important;
 }
-:root {
-    color-scheme: only light !important;
-    background-color: #f4f1ec;
-}
 
-html, body {
+/* =========================================
+   FORCER LES COULEURS CLAIRES
+   Protection contre les adaptations dark mode
+========================================= */
+
+:root,
+html,
+body {
     color-scheme: only light !important;
     background-color: #f4f1ec !important;
     color: #2c3e50;
 }
 
+/* Fond général de la carte */
 .leaflet-container {
-    background: #f4f1ec !important;
+    color-scheme: only light !important;
+    background-color: #f5f2ea !important;
+}
+
+/* Panneau des calques */
+.leaflet-control-layers,
+.leaflet-control-layers-expanded {
+    color-scheme: only light !important;
+    background-color: #ffffff !important;
+    color: #2c3e50 !important;
+}
+
+/* Textes du panneau */
+.leaflet-control-layers label,
+.leaflet-control-layers span,
+.leaflet-layerstree-header {
+    color: #2c3e50 !important;
+}
+
+/* Titres des sections */
+.tree-section-header {
+    background-color: #f0f0f0 !important;
+    color: #555555 !important;
+}
+
+.tree-section-header.header-red,
+.header-red {
+    background-color: #fdf2f2 !important;
+}
+
+/* Légende */
+.dynamic-legend {
+    color-scheme: only light !important;
+    background-color: #ffffff !important;
+    color: #2c3e50 !important;
+}
+
+/* Textes de la légende */
+.dynamic-legend,
+.dynamic-legend * {
+    color-scheme: only light !important;
+}
+
+.dynamic-legend .legend-item {
+    color: #333333 !important;
+}
+
+/* Cases à cocher */
+.leaflet-control-layers input {
+    color-scheme: only light !important;
 }
