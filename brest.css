@@ -361,3 +361,4 @@ img.leaflet-marker-icon {
     width: 52vh !important;
     min-width: 300px !important;
 }
+:root { color-scheme: light; }
