@@ -112,7 +112,9 @@ const getCouleurStatut = (item) => {
 
 
 // Initialisation de la carte
-const map = L.map('map').setView(CONFIG.center, CONFIG.zoom);
+const isMobile = window.innerWidth < 600;
+const map = L.map('map', { zoomSnap: 0.25 })
+  .setView(CONFIG.center, isMobile ? CONFIG.zoom - 1 : CONFIG.zoom);
 
 L.tileLayer('', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
@@ -1032,7 +1034,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // 2. Ajout du contrôle des couches (Tree)
     if (L.control.layers.tree) {
-        L.control.layers.tree({}, overlaysTree, { collapsed: false }).addTo(map);
+        L.control.layers.tree({}, overlaysTree, { collapsed: window.innerWidth < 600 }).addTo(map);
     } else {
         console.warn("Plugin 'L.control.layers.tree' manquant");
     }
