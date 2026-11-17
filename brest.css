@@ -114,7 +114,7 @@
 
 .dynamic-legend {
     width: min(51vh, calc(100vw - 24px));
-   max-height: 35vh;
+   max-height: 25vh;
    box-sizing: border-box;
     overflow-y: auto;
     /*background: white;*/
@@ -128,6 +128,15 @@
     background: rgba(255, 255, 255, 0.95); /* Un léger effet de transparence */
     
     
+}
+
+@media screen and (max-width: 600px) {
+    .dynamic-legend {
+        width: 65vw;
+        max-width: 280px;
+        max-height: 25vh;
+        padding: 8px;
+    }
 }
 
 .legend-item {
