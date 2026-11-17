@@ -2,9 +2,9 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Ghetto de Brest-Litovsk</title>
 
-  
   <link rel="stylesheet" href="leaflet/leaflet.css" />
   <link rel="stylesheet" href="brest.css" />
   <link rel="stylesheet" href="L.Control.Layers.Tree.css" />
@@ -32,38 +32,50 @@
     color: #b9b4ab;
   }
   #map {
-    height: calc(100vh - 64px - 24px);
+    height: calc(100vh - 64px - 24px);   /* repli anciens navigateurs */
+    height: calc(100dvh - 64px - 24px);
     width: 95%; margin: 12px auto;
     border: 1px solid #1f2428; background: #fff;
   }
+  /* panneau de calques : ne dépasse jamais de l'écran */
+  .leaflet-control-layers {
+    max-width: calc(100vw - 40px);
+    max-height: 45dvh;
+    overflow: auto;
+  }
   #sidebar { }
 </style>
-  
 </head>
 
-  
-  <body>
-     <header id="titre">
+<body>
+  <header id="titre">
     <h1>Le ghetto de Brest-Litovsk</h1>
     <p>Carte interactive</p>
   </header>
-    <div id="map"></div>
+  <div id="map"></div>
   <div id="sidebar"><h1>Habitants</h1></div>
-    
-    
-    
-
 
 <script src="leaflet/leaflet.js"></script>
 <script src="leaflet/pattern.js"></script>
 <script src="leaflet/polylineDecorator.js"></script>
-
-
 <script src="leaflet.textpath.js"></script>
-
-
 <script src="L.Control.Sidebar.js"></script>
 <script src="L.Control.Layers.Tree.js"></script>
-<script src="polygones.js"></script>  
+<script src="polygones.js"></script>
+
+<script>
+  // Recalcule la taille de la carte quand la fenêtre change (WebView LinkedIn, rotation...)
+  (function () {
+    function refreshMap() {
+      if (typeof map !== 'undefined' && map.invalidateSize) map.invalidateSize();
+    }
+    window.addEventListener('load', function () { setTimeout(refreshMap, 200); });
+    window.addEventListener('resize', refreshMap);
+    window.addEventListener('orientationchange', function () { setTimeout(refreshMap, 300); });
+    if (window.ResizeObserver) {
+      new ResizeObserver(refreshMap).observe(document.getElementById('map'));
+    }
+  })();
+</script>
 </body>
 </html>
